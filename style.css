@@ -12,7 +12,8 @@
     font-family: sans-serif;
     text-align: center;
     font-size: 45px; 
-    color: blue;  
+    color: blue;
+    text-decoration: underline;  
 }
 
 .html {
@@ -32,6 +33,9 @@
     font-style: italic;
 }
 
+.index {
+    font-weight: bold;
+    font-size: 30px;
+    background-color: bisque;
 
-
-
+}
